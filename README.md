@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="736" height="531" alt="image" src="https://github.com/user-attachments/assets/72117727-ce2f-410e-8c9e-6ccc415a400c" />
+
 
 <!--
 **zukaheart/zukaheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
